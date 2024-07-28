@@ -14,8 +14,8 @@ A renowned game studio, Degen Gaming, has approached to create a unique token th
 
 * With the given Template, fork the repository to your own github desktop
 * Open it on VScode and run this at a command prompt
-      - npm install -g @remix-project/remixd
-      - remixd
+      + npm install -g @remix-project/remixd
+      + remixd
 
 * Go to Remix Ethereum
 * Connect the remix workspace into the localhost
